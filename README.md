@@ -4,6 +4,10 @@
 ## 📌 Introduction
 The **Fire Safety Simulation** is a VR-based training experience designed to educate users on fire safety procedures. The simulation includes interactive fire extinguishers, NPC reactions, emergency calls, movement mechanics, and realistic fire scenarios.
 
+🔗 Video Trailer
+
+https://youtu.be/Uwn3UwoQOwo
+
  ![image](https://github.com/user-attachments/assets/0d44f7bb-547d-4932-83e7-40fae4b9103e)
 
 
